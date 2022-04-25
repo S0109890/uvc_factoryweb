@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "metacamp_dev",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
